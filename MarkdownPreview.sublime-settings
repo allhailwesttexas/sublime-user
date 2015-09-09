@@ -1,0 +1,9 @@
+{
+    "enabled_extensions": [
+        "extra",
+        "github",
+    ],
+    "parser": "github"
+    // "browser": "default",
+    // "browser": "Google Chrome.app",
+}

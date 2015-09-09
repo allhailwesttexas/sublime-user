@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AppleScript Extensions",
+		"Compare Side-By-Side",
+		"Emmet",
+		"FileDiffs",
+		"Fix Mac Path",
+		"GitGutter",
+		"HTMLBeautify",
+		"Jinja2",
+		"JSHint",
+		"JSX",
+		"Markdown Preview",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Reform",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"SublimeREPL",
+		"Theme - Flatland",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes",
+		"Wrap Plus"
+	]
+}
