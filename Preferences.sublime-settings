@@ -1,24 +1,36 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
 	"detect_slow_plugins": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
 	"font_face": "Source Code Pro Light",
 	"font_size": 11,
 	"highlight_line": false,
 	"ignored_packages":
 	[
 	],
+	"itg_scrollbar_medium": true,
+	"itg_sidebar_tree_medium": true,
+	"itg_small_tabs": true,
 	"rulers":
 	[
-		79
+		95
 	],
 	"scroll_past_end": true,
 	"spell_check": false,
-	"theme": "Spacegray Eighties.sublime-theme",
+	"theme": "itg.flat.dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
