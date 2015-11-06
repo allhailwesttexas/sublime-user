@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Asphalt (SL).tmTheme",
 	"detect_slow_plugins": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -21,16 +21,15 @@
 	"ignored_packages":
 	[
 	],
-	"itg_scrollbar_medium": true,
-	"itg_sidebar_tree_medium": true,
-	"itg_small_tabs": true,
 	"rulers":
 	[
 		95
 	],
 	"scroll_past_end": true,
 	"spell_check": false,
-	"theme": "Spacegray Eighties.sublime-theme",
+	"theme": "Asphalt-monochrome.sublime-theme",
+	"theme_asphalt_status_bar_brighter": true,
+	"theme_asphalt_tabs_small": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,

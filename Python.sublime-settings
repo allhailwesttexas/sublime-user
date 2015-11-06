@@ -1,3 +1,9 @@
 {
-    "tab_size": 4
+	"extensions":
+	[
+		"py3",
+		"pyw",
+		"pt"
+	],
+	"tab_size": 4
 }

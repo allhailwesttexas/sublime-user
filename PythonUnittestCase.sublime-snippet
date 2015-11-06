@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MyTester}(unittest.TestCase):
+    def setUp(self):
+        ${2:pass}
+
+    def ${3:testEquals}(self):
+        ${4:pass}
+
+]]></content>
+    <tabTrigger>test</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

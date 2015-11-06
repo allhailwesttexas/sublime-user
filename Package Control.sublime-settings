@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"AdvancedNewFile",
 		"AppleScript Extensions",
 		"Babel",
@@ -21,12 +22,15 @@
 		"JSHint",
 		"JSX",
 		"MacTerminal",
+		"Markdown Extended",
 		"Markdown Preview",
 		"Monokai - Spacegray",
+		"Neon Color Scheme",
 		"Numix Theme",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Predawn",
+		"Python Improved",
 		"ReactJS",
 		"Reform",
 		"Seti_UI",
